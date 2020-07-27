@@ -1,3 +1,9 @@
 # Packer Terraform
 
-HAProxy + GitLab Server/Runner + Rancher + Kubernetes (Master and Workers)
+* HAProxy
+* GitLab Server
+* GitLab Runner
+* Rancher
+* Kubernetes
+  * Worker
+  * Servers
